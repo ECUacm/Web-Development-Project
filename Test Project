@@ -1,2 +1,120 @@
 Your individual snippets of code will go here, along with your name
 
+*********************
+Christian Motley
+
+HTML Document
+
+<!--Author: Christian Motley-->
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="externalCSSExample.css">
+<style>
+table, th, td{border: 3.5px solid black;}
+.tableHeading{background-color:white;text-align:center;}
+</style>
+<title>Website Test</title>
+</head>
+<body>
+	<h1>
+		Created by Christian Motley
+	</h1>
+	<h3>
+<p id = "anID">
+		This paragraph is <u>white</u>.
+	</h3>
+	<h6 id = "anID">
+		Random filler text in <u>white</u>.
+	</h6>
+</p>
+	<h3>
+<p class = "aGroup">
+		This paragraph is <u>red</u>.
+	</h3>
+	<h6 class = "aGroup">Random filler text in <u>red</u>. </h6>
+</p>
+<p>
+	<h3>
+		This text is <u>black</u>, <u>black</u> is the <i>default</i> color.
+	</h3>
+	<h6>
+		Random filler text in <u>black</u>.
+	</h6>
+</p>
+<img class="aPicture" alt= "ACM logo" src="http://acmba.uprm.edu/img/acm.gif" height=25% width=40%>
+<a href = "http://acmba.uprm.edu/img/acm.gif">
+	<font color=white>ACM logo hyperlink</font>
+</a> 
+<table>
+<tr>
+	<th class="tableHeading">
+		These Doges are hyperlinks
+	</th>
+	<th class="tableHeading">
+		Regular Doge images
+	</th>
+	<th class="tableHeading">
+		Doge&#8482;
+	</th>
+</tr>
+
+<tr>
+	<td>
+		<a href="http://tr1.cbsistatic.com/hub/i/r/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/thumbnail/940x623/47e3260a8b426ebc86b634df97f314aa/codedoge.jpg">
+			<img alt="Doge code" src="http://tr1.cbsistatic.com/hub/i/r/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/thumbnail/940x623/47e3260a8b426ebc86b634df97f314aa/codedoge.jpg" height=150px width=200px>
+		</a>
+	</td>
+	<td>
+		<img alt"Regular Doge" src="https://pbs.twimg.com/media/B3I1pVPCMAAd1b-.jpg:large" height=150px width=200px>
+	</td>
+	<td>
+		Doge&#8482;
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="http://3.bp.blogspot.com/-FAUTU4o90L4/UsbJ31plhGI/AAAAAAAAACg/N2GM5AfI2P0/s1600/doge+wow.png">
+			<img alt="Doge code" src="http://3.bp.blogspot.com/-FAUTU4o90L4/UsbJ31plhGI/AAAAAAAAACg/N2GM5AfI2P0/s1600/doge+wow.png" height=150px width=200px>
+		</a>
+	</td>
+	<td>
+		<img alt="Regular Doge" src="http://img07.deviantart.net/bf76/i/2014/080/b/7/doge____by_lulgl-d7b3rrl.png" height=150px width=200px>
+	</td>
+	<td>
+		Doge&#8482;
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="http://s.quickmeme.com/img/62/625bcc2be75b47637e57e7a305e511328ad12c6ee7af05c06ec72e2fbc91c2eb.jpg">
+			<img alt="Doge code" src="http://s.quickmeme.com/img/62/625bcc2be75b47637e57e7a305e511328ad12c6ee7af05c06ec72e2fbc91c2eb.jpg" height=150px width=200px>
+		</a>
+	</td>
+	<td>
+		<img alt="Regular Doge" src="https://pbs.twimg.com/profile_images/417201275466690560/TzVjIXv2.jpeg" height=150px width=200px>
+	</td>
+	<td>
+		Doge&#8482;
+	</td>
+</tr>
+
+</table>
+<input type= "input" name= "searching" placeholder= "Useless searchbar!" value= "">
+<button type= "button">Useless button!</button>
+<select>
+	<option value="Useless Drop Down List">Useless Drop Down List</option>
+	<option value="More Doge">More Doge</option>
+</select>
+</body>
+</html>
+
+External CSS
+
+html{background-color:cyan;}
+h1{color:yellow;text-align:center;}
+#anID{color:white;}
+.aGroup{color:red;}
+.aPicture{background-color:white;}
+*********************
