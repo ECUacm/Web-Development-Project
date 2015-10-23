@@ -118,3 +118,48 @@ h1{color:yellow;text-align:center;}
 .aGroup{color:red;}
 .aPicture{background-color:white;}
 *********************
+
+*********************
+Morgan McKeithan
+
+HTML Document
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {color:white; font-family:"Arial Black", Gadget, sans-serif; position: relative; left: 1%;}
+h2 {font-family:"Arial Black", Gadget, sans-serif}
+.boxed {border: 1px solid darkblue; background-color: darkblue; box-shadow: 0px 3px 5px 1px silver
+}
+</style>
+</head>
+	<body>
+			<a href="http://www.acm.org/">
+			<img style = "float: right" width="8%" height="3%"
+				src= "http://identitystandards.acm.org/acmincooperation/ACM-In-Cooperation_large.gif">
+			</a>	
+			<h2>ecuACM</h2>
+			<hr/>
+		<div class="boxed">
+			<h1>College Organization Day</h1>
+		</div>	
+			<h2>Fall 2013</h2>
+			<img src= "http://www.acm.cs.ecu.edu/images/phocagallery/College_Organization_Day_Fall_2013/thumbs/phoca_thumb_l_dsc08439.jpg"
+				width="22.5%" height="45%" style="padding:1%;">
+			<img src= "http://www.acm.cs.ecu.edu/images/phocagallery/College_Organization_Day_Fall_2013/thumbs/phoca_thumb_l_dsc08440.jpg"
+				width="22.5%" height="45%" style="padding:1%;">
+			<img src= "http://www.acm.cs.ecu.edu/images/phocagallery/College_Organization_Day_Fall_2013/thumbs/phoca_thumb_l_dsc08442.jpg"
+				width="22.5%" height="45%" style="padding:1%;">
+			<img src= "http://www.acm.cs.ecu.edu/images/phocagallery/College_Organization_Day_Fall_2013/thumbs/phoca_thumb_l_dsc08443.jpg"
+				width="22.5%" height="45%" style="padding:1%;">
+	</body>
+</html>	
+
+External CSS
+
+.images {box-shadow:0px 3px 5px 1px silver}
+*********************
+
+
+
