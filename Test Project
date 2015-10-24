@@ -332,3 +332,472 @@ body {
     background-color:#4682B4;
 }
 *********************
+*********************
+Alex Molgaard
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Cessna Airplanes</title>
+<style type="text/css">
+strong{font-weight:700}
+
+
+
+</style>
+<link href="Cessna.css" rel="stylesheet" type="text/css" />
+<link href="Europe.css" rel="stylesheet" type="text/css" />
+</head
+
+
+<!--JavaScript Begin-->
+
+<h4>
+<script>
+document.write("Today's Date is ");
+var today = new Date();
+var dd = today.getDate();
+var mm = today.getMonth()+1; //January is 0!
+var yyyy = today.getFullYear();
+
+if(dd<10) {
+    dd='0'+dd
+} 
+
+if(mm<10) {
+    mm='0'+mm
+} 
+
+today = mm+'/'+dd+'/'+yyyy;
+document.write(today);
+</script>
+
+ 
+<script type="text/javascript">
+document.write("and The Current Time Is ")
+var currentTime = new Date()
+var hours = currentTime.getHours()
+var minutes = currentTime.getMinutes()
+if (minutes < 10){
+minutes = "0" + minutes
+}
+document.write(hours + ":" + minutes + " ")
+if(hours > 11){
+document.write("PM")
+} else {
+document.write("AM")
+}
+
+
+var n = prompt("Even or Odd?", "Pick a Number");
+n = parseInt(n);
+if (isNaN(n))
+   {
+   alert("The input cannot be parsed to a number");
+   }
+else
+   {
+   if (n == 0)
+      {
+      alert("The number is zero");
+      }
+   else if (n%2)
+      {
+      alert("The number is odd");
+      }
+   else
+      {
+      alert("The number is even");
+      }
+   }
+
+
+
+
+// JavaScript End!!!!!!!!!!!!!!!!
+
+</script>
+</h4>
+
+
+
+
+
+<!--I used CSS styles for my tables, lists, and h1-->
+
+<body style="height: 1507px">
+
+<center><h1 class="auto-style1">
+<img alt="" height="99" src="cessnalogo.jpg" width="190" />Cessna Airplanes<img alt="" height="123" src="cessnajet.jpg" width="242" /></h1></center>
+<p>Cessna Aircraft Company is the leading designer and manufacturer of light and 
+midsize business jets, utility turboprops and single engine aircraft. Listed 
+below are some of the jets Cessna makes and the specs that go with them.</p>
+<ul>
+	<li>Citation Mustang</li>
+	<li>Citation M2</li>
+	<li>Citation CJ3+</li>
+	<li>Citation Sovereign+</li>
+	<li>Citation X+</li>
+	<li>Citation Longitude (In Development)</li>
+</ul>
+
+</body>
+<h1>Citation mustang</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>1,207 nm</td>
+		<td>340 ktas</td>
+		<td>5</td>
+		<td>3,135 lb</td>
+		<td>3,110 ft</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<h1>citation m2</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>1,580 nm</td>
+		<td>404 ktas</td>
+		<td>7</td>
+		<td>3,800 lb</td>
+		<td>3,210 ft</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<h1>citation cj3+</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>2,070 nm</td>
+		<td>416 ktas</td>
+		<td>9</td>
+		<td>5,490 lb</td>
+		<td>3,180 ft</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<h1>citation sovereign+</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>3,188 nm</td>
+		<td>460 ktas</td>
+		<td>12</td>
+		<td>12,695 lb</td>
+		<td>3,530 ft</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<h1>citiation x+</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>3,429 nm</td>
+		<td>528 ktas</td>
+		<td>12</td>
+		<td>14,436 lb</td>
+		<td>5,250 ft</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<h1>citation longitude</h1>
+<table style="width: 100%">
+	<tr>
+		<td>Maximum Range</td>
+		<td>Maximum Cruise Speed</td>
+		<td>Maximum Passengers</td>
+		<td>Useful Load</td>
+		<td>Takeoff Distance</td>
+	</tr>
+	<tr>
+		<td>4,000 nm</td>
+		<td>490 ktas</td>
+		<td>12</td>
+		<td>N/A lb</td>
+		<td>5,400 ft</td>
+	</tr>
+</table>
+</html>
+*********************
+
+*********************
+Nam Thai
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body {
+    background-color:#062E5C;
+	background-image: url("acm_logo.png");
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+}
+div.mainCenter {
+	background-color: #4D4B4C;
+	position: relative;
+	margin-left: auto ;
+	margin-right: auto ;
+	top: 170px;
+    border: 1px solid #000000;
+	height:1000px;
+    width:920px;
+}
+div.subCenter{
+ 	border-radius: 7px;
+	background-color: #DFDFDF; <!-- #DFDFDF -->
+ 	position: absolute;
+	margin-top: 40px;
+	margin-left: 20px ;
+	margin-right: 20px;
+	height:90%;
+    width:880px;
+}
+
+div.officer{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	position:absolute;
+	margin-left:35%;
+	margin-top: 20px;
+
+	
+}
+
+div.currentOfficers{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	position:absolute;
+	margin-left:10px;
+	margin-top: 50px;
+	width:400px;
+}
+
+div.update{
+	font-size: 10px;
+
+}
+
+div.officersList{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position:absolute;
+	margin-left:30px;
+	margin-top: 20px;
+	width:800px;
+
+}
+
+div.bottom{
+	font-size: 10px;
+	position:absolute;
+	margin-top: 210px;
+}
+
+div.advisorBottom{
+	font-size: 10px;
+	position:absolute;
+	margin-top: 65px;
+}
+
+div.advisors{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	position:absolute;
+	margin-left:10px;
+	margin-top: 380px;
+	width:400px;
+}
+
+div.pastAdvisors{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	position:absolute;
+	margin-left:10px;
+	margin-top: 550px;
+	width:400px;
+
+}
+
+div.listTitle{
+	font-size: 12px;
+
+}
+
+
+
+</style>
+</head>
+
+
+
+
+
+<body >
+
+<div class = "mainCenter">
+ <font color="red">A menu goes here</font>
+
+<div class = "subCenter">
+
+<header><div class = "officer"> Officers </div></header>
+
+<div class = "currentOfficers">
+<b>Current Officers</b>  
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> 
+<img src="emailButton.png" alt="email" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58">
+<img src="printButton.png" alt="print" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58">
+<img src="pdf_button.png" alt="PDF" align="right"></a>
+<hr>
+
+<div class = "update">
+Written by Administrator <br>
+Friday, 18 September 2015 00:00
+<br><br>
+
+<div class="listTitle">
+<b>2015 to 2016 Officers</b>
+</div>
+
+</div>
+
+<div class="officersList">
+
+    &#10003;Shawn Braddy President ( braddys04@students.ecu.edu)<br>
+    &#10003;Richard Colby Murphy, Vice president ( murphyr07@students.ecu.edu)<br>
+    &#10003;David Anderson, Treasurer ( andersonda12@students.ecu.edu)<br>
+    &#10003;Galen Pannell,Secretary? ( pannellg11@students.ecu.edu)<br>
+    &#10003;Samuel Carraway, Webmaster ( carraways14@students.ecu.edu)<br>
+
+</div>
+
+<div class="bottom">
+Last Updated on Friday, 18 September 2015 05:29 
+</div>
+
+</div>
+
+<div class="advisors">
+<b>Advisors</b>
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> 
+<img src="emailButton.png" alt="email" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58">
+<img src="printButton.png" alt="print" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58">
+<img src="pdf_button.png" alt="PDF" align="right"></a>
+<hr>
+
+<div class = "update">
+Written by Christopher M West <br>  
+Tuesday, 12 October 2010 23:05 
+
+
+
+<div class="officersList">
+    &#10003;Dr. Qin Ding, Advisor ( dingq@ecu.edu)<br>
+    &#10003;Prof. Bobby Hoggard, Co-advisor ( hoggardr@ecu.edu)
+</div>
+
+<div class="advisorBottom">
+Last Updated on Saturday, 21 January 2012 04:48 
+</div>
+
+</div>
+
+</div>
+
+<div class="pastAdvisors">
+<b>Past Officers</b>
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> 
+<img src="emailButton.png" alt="email" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58">
+<img src="printButton.png" alt="print" align="right"></a>
+
+<a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58">
+<img src="pdf_button.png" alt="PDF" align="right"></a>
+<hr>
+
+<div class = "update">
+Written by Christopher M West   <br>
+Tuesday, 12 October 2010 23:06 
+<br><br>
+
+</div>
+
+<div class="listTitle">
+<b>2012 to 2013 Officers</b>
+</div>
+
+<div class="officersList">
+    
+    &#10003;Klinton James Henry, President ( HENRYK09@students.ecu.edu)<br>
+    &#10003;Hao Leng, Vice president ( LENGH09@students.ecu.edu)<br>
+    &#10003;Eric B? Carlton ,Treasurer   ( CARLTONE10@students.ecu.edu)<br>
+    &#10003;Pooya Rahimian, Events Coordinator ( rahimianp10@students.ecu.edu)<br>
+    &#10003;Elia Shahbazi, Webmaster ( Shahbazia12@students.ecu.edu)<br>
+    &#10003;Arielle Winter Harper,Secretary? ( HARPERA10@students.ecu.edu)<br>
+
+</div>
+
+
+
+</div>
+
+
+</div> <!-- Dark Grey Box-->
+
+
+</div> <!-- Light Grey Box-->
+
+
+
+</body>
+</html>
+*********************
+
+
+
