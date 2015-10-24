@@ -1,5 +1,104 @@
 Your individual snippets of code will go here, along with your first and last name
+*********************
+Lisa Barrett
+<!DOCTYPE html>
+<html>
+  <style>
+    table, th, td {
+    //border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+    table#to2{
+    }
+table#to1 {
+    width: 100%;
+    border: 1px solid black;
+    background-color: #EBFFFF;
+    border-collapse: collapse;
+}
+    table#to3{
+      width:75%;
+      border: 3px solid purple;
+      background-image:
+    }
+  </style>
+<body>
+<table id= "to2";
+       border = "4";
+  style="font-family:verdana";>
+ <th><h4>Date</h4></th>
+   <th><h4>Event</h4></th>
+     <th><h4>Venue</h4></th>
+       <th><h4>Semester</h4></th>
+<tr>
+  <td>Item</td>
+   <td>Item</td>
+    <td>Item</td>
+      <td>Item</td>
+</tr>
+<tr>
+   <td>Item</td> 
+   <td>Item</td>
+    <td>Item</td>
+     <td>Item</td>
+</tr>
+  <tr>
+   <td>Item</td> 
+   <td>Item</td>
+    <td>Item</td>
+     <td>Item</td>
+</tr>
+  </table>
+  <br>
+  
+<table id="to1";
+      // border = "1";
+       //style="width:75%"
+      border-collapse:collapse;>
+  <th><h4>Date</h4></th>
+    <th><h4>Event</h4></th>
+     <th><h4>Venue</h4></th>
+       <th><h4>Semester</h4></th>
+<tr>
+  <td>Item</td>
+   <td>Item</td>
+    <td>Item</td>
+      <td>Item</td>
+</tr>
+<tr>
+   <td>Item</td> 
+   <td>Item</td>
+    <td>Item</td>
+     <td>Item</td>
+</tr>
+  <tr>
+   <td>Item</td> 
+   <td>Item</td>
+    <td>Item</td>
+    <td>Item</td>
+</tr>
+    </table>
+   <br> 
+  <table id=to3
+         border>  
+    <th><h4>Date</h4></th>
+    <th><h4>Event</h4></th>
+     <th><h4>Venue</h4></th>
+<tr>
+  <td><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY4-uKfPcH_njbPz0NdeDTQcu9RFudEklTwsRqYk3hSi6uhZghFQ"
+           width=100px></td>
+   <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsryfHn9A78_rXjDwM8GuQ0dR_zjSN7jogMGqLUkieqQEJeWzgTg" width=100px></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYDgmu9ui_vnugFibG5luhPaVB3oyyR79BXULzcENODKtScFl"width=100px></td>
+      
+</tr>
+  </table>
+</body>
+</html>
 
+*********************
 *********************
 Christian Motley
 
