@@ -161,5 +161,174 @@ External CSS
 .images {box-shadow:0px 3px 5px 1px silver}
 *********************
 
+*********************
+Isaiah Binford
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body {
+    background-color:#062E5C;
+	background-image: url("acm_logo.png");
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+}
+div.mainCenter {
+	background-color: #4D4B4C;
+	position: relative;
+	margin-left: auto ;
+	margin-right: auto ;
+	top: 170px;
+    border: 1px solid #000000;
+	height:1700px;
+    width:1500px;
+}
+div.subCenter{
+ 	border-radius: 7px;
+	background-color: #DFDFDF;
+ 	position: absolute;
+	margin-top: 40px;
+	margin-left: 20px ;
+	margin-right: 20px;
+	height:95%;
+    width:1450px;
+}
+
+div.officer{
+	font-family: Times New Roman;
+	font-size: 45px;
+	color:white;
+	position:absolute;
+	margin-left:40%;
+	margin-top: -150px;
+}
+
+div.currentOfficers{
+
+	font-size: 25px;
+	position:absolute;
+	margin-left:10px;
+	margin-top: 50px;
+	width:400px;
+}
+
+div.updatecurrent{
+	font-size: 15px;
+}
 
 
+div.Advisors{
+
+	font-size: 25px;
+	position:absolute;
+	margin-left:-40px;
+	margin-top: 220px;
+	width:400px;
+}
+
+
+div.updateadvisors{
+	font-size: 15px;
+}
+
+div.PastOfficers{
+
+	font-size: 25px;
+	position:absolute;
+	margin-left:-40px;
+	margin-top: 230px;
+	width:400px;
+}
+
+
+
+
+div.update{
+	font-size: 15px;
+}
+
+
+
+
+
+
+</style>
+</head>
+
+<body >
+
+<a href="https://www.youtube.com/watch?v=2G2w77jrayw">
+			<img style = "float: right" width="350" height="250"
+				src= "https://lh6.googleusercontent.com/ezmZSoq-B-zZ4ElwabSDZewesUmpfBbI7drQ2l7qyBE">
+			</a>	
+<div class = "mainCenter">
+ <font color="red"></font>
+
+<div class = "subCenter">
+
+<header> <div class = "officer"> <span style="color:white;font-family:monospace;font-weight:bold;font-size:25px;font-size:50px;font-style:italic;letter-spacing:5px;">ECU ACM OFFICERS </div></header></span>
+
+<div class = "currentOfficers">
+<b>Current Officers</b>  <a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> <img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/emailButton.png" alt="email" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/printButton.png" alt="print" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/pdf_button.png" alt="PDF" align="right"></a> <hr>
+
+<div class = "current">
+<ul> 
+<li> Shawn Braddy President <a href="space">(braddys04@students.ecu.edu)‎</a>
+<li>Richard Colby Murphy, Vice president <a href="space">(murphyr07@students.ecu.edu)</a>
+<li>David Anderson, Treasurer <a href="space">(andersonda12@students.ecu.edu)</a>
+<li>Galen Pannell,Secretary‎ <a href="space">(pannellg11@students.ecu.edu)</a>
+<li>Samuel Carraway, Webmaster <a href="space">(carraways14@students.ecu.edu)</a>
+</ui>
+<div class = "updatecurrent">
+Written by Administrator <br>
+Friday, 18 September 2015 00:00
+
+
+<div class = "Advisors">
+<b>Advisors</b>  <a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> <img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/emailButton.png" alt="email" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/printButton.png" alt="print" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/pdf_button.png" alt="PDF" align="right"></a> <hr>
+
+<div class = "visors">
+<ul> 
+<li>Dr. Qin Ding, Advisor <a href="space">(dingq@ecu.edu)</a>
+<li>Prof. Bobby Hoggard, Co-advisor <a href="space">(hoggardr@ecu.edu)</a>
+</ui>
+<div class = "updateadvisors">
+Written by Administrator <br>
+Monday, 11 December 2015 00:00
+
+<div class = "PastOfficers">
+<b>Past Officers</b>  <a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"> <img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/emailButton.png" alt="email" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/printButton.png" alt="print" align="right"></a><a href="http://www.acm.cs.ecu.edu/index.php?view=article&catid=35%3Aofficers&id=50%3Acurrent-officers&format=pdf&option=com_content&Itemid=58"><img src="file:///C:/Users/isaiah/AppData/Local/Temp/Rar$EXa0.353/ECU%20ACM%20NAM%20THAI/pdf_button.png" alt="PDF" align="right"></a> <hr>
+
+
+
+
+<link href="path/to/core-icons/core-icons.html" rel="import">
+
+<paper-fab icon="add"></paper-fab>
+<paper-fab mini icon="favorite"></paper-fab>
+<paper-fab src="star.png"></paper-fab>
+
+<div class = "update">
+Last Updated Today. <br>
+</div>
+</div>
+
+
+
+</div>
+
+
+</div>
+
+
+</body>
+</html>
+
+External CSS
+
+body {
+    background-color:#4682B4;
+}
+*********************
