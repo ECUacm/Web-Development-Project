@@ -998,3 +998,56 @@ html{
   background-color: #F2EEB3;
 }
 *********************
+
+*********************
+							John Champion
+HTML Document
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="externalCSS.css">
+    <title>HTML Demo</title>
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+        p {
+            font-family: "Helvetica", "Arial";
+        }
+        </style>
+    </head>
+<body>
+    <h1>
+        ACM Mid-Atlantic Regional Competition Fall 2010
+        </h1>
+    
+    <h6><p style="text-align:left;">
+    Written by Ronnie W. Smith
+    <span style="float:right;">Tuesday, 18 January 2011 19:56</span>
+    </p></h6>
+    
+    <p>The <b><i>East Carolina University Student Programming team placed 72nd out of 166 teams</i></b> at the ACM Mid-Atlantic Regional Competition on November 6, 2010.  The Mid-Atlantic Region encompasses all of North Carolina, Virginia, West Virginia, Maryland,  Delaware, Eastern Pennsylvania, and southern New Jersey. The contest is held over the Internet at several sites. We participated at Duke University.</p>
+    <p>The format of the competition is that a team of 3 undergraduate students  has 5 hours to solve up to 8 problems.  Solving means that you submit a computer program that produces correct answers in a timely fashion for all of the test inputs.  The big constraint is that each team has only one computer upon which to work, so team skills are just as important as raw intelligence and programming/problem-solving ability.  The secondary constraint is that if your program is judged as "incorrect", you are given minimal information about the cause of the problem.  Feedback is of the form "Wrong answer", "Run-time error", "compile error", etc.  In particular, you do not have knowledge of the test data.  Usually, errors are caused by either (1) failure to consider properly boundary conditions for the problem; (2) misunderstanding of the problem specification; or (3) inaccurate or careless testing prior to submission.</p>
+    <p>Scoring and ranking is based primarily on number of problems solved and secondarily how efficiently the solutions are produced (in terms of time and number of times a program was submitted before being judged correct).  Thus, solving one more problem can lead to a huge jump in your position in the standings.  For example, if our team had solved one more problem, they would have moved up to at least 35th in the standings.</p>
+    <div style="text-align:center"><img src="Fall2010.jpg" width=400px height=300px></div>
+    <p>The students on the team were Zachary Dain, Michael Nance, and Brian Widman. This was our first finish in the top half of the region in five years, and the students' deserve credit for the practice time they put in prior to the contest.  The team met on a weekly basis to discuss solutions to problems and to practice solving problems in conditions simulating the contest.</p>
+    <p>Further information can be found at the following URL: <a href="http://www.cs.ecu.edu/~rws/progteam/">http://www.cs.ecu.edu/~rws/progteam/</a></p>
+    <p>Please let me know if you have further questions.</p>
+    <address>
+        Ronnie W. Smith<br>
+        Associate Professor, Department of Computer Science<br>
+        East Carolina University<br>
+        Greenville, NC 27858, USA<br>
+        Email: <a href="mailto:rws@cs.ecu.edu">rws@cs.ecu.edu</a><br>
+        Phone: 252-328-9687<br>
+        URL: <a href="http://www.cs.ecu.edu/~rws">http://www.cs.ecu.edu/~rws</a>
+        </address>
+    </body>
+</html>
+
+External CSS
+
+h1 {
+    font-family: "Helvetica", "Arial";
+}
+*********************
